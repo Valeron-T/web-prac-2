@@ -1,0 +1,31 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f1f1f1;
+}
+
+a, a:hover {
+    text-decoration: none;
+    color: white;
+    vertical-align: middle;
+    margin-top: 55px;
+}
+
+.nav-links {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    text-align: center;
+    background-color: green;
+}
+
+.nav-links:hover {
+    background-color: gray;
+    color: green;
+}
+
+h1 {
+    text-align: center;
+}
+
+#viewhtml {
+    text-align: center;
+}
